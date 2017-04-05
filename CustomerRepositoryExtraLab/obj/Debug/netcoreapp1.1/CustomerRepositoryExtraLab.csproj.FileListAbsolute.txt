@@ -1,0 +1,9 @@
+c:\users\bbdnet1594\documents\visual studio 2017\Projects\CustomerRepoLab\CustomerRepositoryExtraLab\bin\Debug\netcoreapp1.1\CustomerRepositoryExtraLab.deps.json
+c:\users\bbdnet1594\documents\visual studio 2017\Projects\CustomerRepoLab\CustomerRepositoryExtraLab\bin\Debug\netcoreapp1.1\CustomerRepositoryExtraLab.runtimeconfig.json
+c:\users\bbdnet1594\documents\visual studio 2017\Projects\CustomerRepoLab\CustomerRepositoryExtraLab\bin\Debug\netcoreapp1.1\CustomerRepositoryExtraLab.runtimeconfig.dev.json
+c:\users\bbdnet1594\documents\visual studio 2017\Projects\CustomerRepoLab\CustomerRepositoryExtraLab\bin\Debug\netcoreapp1.1\CustomerRepositoryExtraLab.dll
+c:\users\bbdnet1594\documents\visual studio 2017\Projects\CustomerRepoLab\CustomerRepositoryExtraLab\bin\Debug\netcoreapp1.1\CustomerRepositoryExtraLab.pdb
+c:\users\bbdnet1594\documents\visual studio 2017\Projects\CustomerRepoLab\CustomerRepositoryExtraLab\obj\Debug\netcoreapp1.1\CustomerRepositoryExtraLab.csprojResolveAssemblyReference.cache
+c:\users\bbdnet1594\documents\visual studio 2017\Projects\CustomerRepoLab\CustomerRepositoryExtraLab\obj\Debug\netcoreapp1.1\CustomerRepositoryExtraLab.AssemblyInfo.cs
+c:\users\bbdnet1594\documents\visual studio 2017\Projects\CustomerRepoLab\CustomerRepositoryExtraLab\obj\Debug\netcoreapp1.1\CustomerRepositoryExtraLab.dll
+c:\users\bbdnet1594\documents\visual studio 2017\Projects\CustomerRepoLab\CustomerRepositoryExtraLab\obj\Debug\netcoreapp1.1\CustomerRepositoryExtraLab.pdb

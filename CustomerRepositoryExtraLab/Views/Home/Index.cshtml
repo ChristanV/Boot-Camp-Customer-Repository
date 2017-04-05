@@ -1,0 +1,60 @@
+﻿@model IEnumerable<CustomerRepositoryExtraLab.Models.Customer>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<div class="jumbotron">
+    <h1>Customer Lab</h1>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h2>Welcome to Customer Lab</h2>
+        <p>
+            C# Bootcamp
+        </p>
+    </div>
+</div>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @*<a asp-action="Edit" asp-route-id="@item.CustomerId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.CustomerId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.CustomerId">Delete</a>*@
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
